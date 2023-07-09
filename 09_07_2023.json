@@ -1,0 +1,519 @@
+[
+    {
+        "titles": [
+            "INFORMATIKA",
+            "IZOBRAŽEVANJE"
+        ],
+        "description": "V mladem kolektivu iščejo študente (m/ž) višjih letnikov IT-smeri, za izvedbo spletnih predavanj (webinarjev), in sicer za Outlook in vse ostalo za Microsoft 365, HTML in CSS, Java, Javascript, PHP, Sharepoint, Ionic, SQL baze, Python, Scrum, Power BI, Bootstrap, Docker in ostalo. . . V kolikor bi radi poleg študija še nekaj dodatno zaslužili z deljenjem vašega znanja, pošljite CV oziroma vaš opis znanj na email. Nudijo tudi možnost dodatnega usposabljanja.",
+        "netEurPerHour": 14.37,
+        "grossEurPerHour": 17,
+        "location": " LJUBLJANA - ONLINE",
+        "code": "388395"
+    },
+    {
+        "titles": [
+            "PROGRAMIRANJE"
+        ],
+        "description": "Iščejo razvijalce Java s strastjo do kriptovalut / financ (delo na daljavo). Zahtevano: odlične osnove Jave, OOP, večnitnost, računalniško znanje: algoritmi, podatkovne strukture, Linux, Git itd., želja po izboljšanju veščin. Bodite del mednarodne ekipe, ki dela na inovativnem izdelku, če se želite izzvati, ste bili med najboljšimi v razredu, ste samodisciplinirani je to delo za vas. Potrebujejo kandidate/ke, ki imajo izkušnje s konkretnimi stranskimi projekti.",
+        "netEurPerHour": 12.67,
+        "grossEurPerHour": 15,
+        "location": " LJUBLJANA, OD DOMA",
+        "code": "365541"
+    },
+    {
+        "titles": [
+            "INFORMATIKA",
+            "RAČUNALNIŠKI PROGRAMI"
+        ],
+        "description": "Hitro rastoče podjetje, ki se ukvarja s spletno prodajo, išče osebi za pomoč pri razvoju in vzdrževanju IT rešitev (frontend razvijalec spletnih strani). Zahtevane kompetence: izkušenje s PHP aplikacijami v produkcijsem okolju, poznavanje PHP, MySQL/MariaDB, CSS, HTML5, Javascript (jquery), Ajax, poznavanje Cpanel, nastavitve podatkovnih baz, domen, SSL certifikatov, izkušnje na področju REST API tehnologij. Prednost so izkušnje iz ecommerca. Pošlji prijavo s CV-jem.",
+        "netEurPerHour": 12,
+        "grossEurPerHour": 14.2,
+        "location": " ŠMARTNO PRI LITIJI",
+        "code": "402540"
+    },
+    {
+        "titles": [
+            "PROGRAMIRANJE"
+        ],
+        "description": "Podjetje išče (Junior) DevOpsa, ki ga/jo veselijo najnovejše tehnologije in delo v oblaku. Bruto urna postavka znaša od 12,5 € do 16,7 €, odvisno od izkušenj. Kasneje možnost redne zaposlitve. Več o delu in prijave preko prijavnega obrazca.",
+        "netEurPerHour": 10.56,
+        "grossEurPerHour": 12.5,
+        "location": " LJUBLJANA",
+        "code": "399394"
+    },
+    {
+        "titles": [
+            "PROGRAMIRANJE"
+        ],
+        "description": "So majhno visokotehnološko ameriško podjetje,ki ustvarja platformo za stereo kamere z umetno inteligenco - Spatial AI. Iščejo C++ programerje/ke. Možnost dela: Programiranje embedded naprav (C++ & OS), delo na knjižnicah in projektih z njihovo platformo. Potrebna znanja: C++, git, CMake in angleščina. Plus: ML/AI, strojni vid, osnove elektrotehnike,embedded področja. Zainteresirani naj pošljejo svoj Github/CV/spremno pismo in projekte v angleščini.",
+        "netEurPerHour": 10.5,
+        "grossEurPerHour": 12.43,
+        "location": " OD DOMA",
+        "code": "393180"
+    },
+    {
+        "titles": [
+            "PROGRAMIRANJE",
+            "RAZVOJ PROGRAMSKE OPREME"
+        ],
+        "description": "Iščejo Junior Software Developerja/ko - odgovorni boste za podporo njihovi ekipi za razvoj programske opreme v vseh vidikih razvoja, testiranja in implementacije njihovega izdelka, hkrati pa lahko nenehno izboljšujete svoje sposobnosti kodiranja in oblikovanja. Imeli boste priložnost spoznati kodno zbirko, se udeležiti pomembnih sestankov, napisati osnovno kodo, popraviti napake in pomagati razvojni skupini pri vseh nalogah, povezanih z oblikovanjem.",
+        "netEurPerHour": 10.14,
+        "grossEurPerHour": 12,
+        "location": " DELO OD DOMA",
+        "code": "405627"
+    },
+    {
+        "titles": [
+            "PROGRAMIRANJE"
+        ],
+        "description": "Iščejo Junior Linux Administratorja/ko - pomagali boste upravljati podporno infrastrukturo, operacijske sisteme, virtualne platforme in aplikacije. Z upoštevanjem uveljavljenih varnostnih protokolov in praks ste odgovorni za celovitost in varnost strežnikov in računalniških sistemov. Pri namestitvi, vzdrževanju in nadgradnji sistemov sodelujete z inženirjem računalniških sistemov. Kot njihov skrbnik za Linux pomagate zagotoviti, da so sistemi posodobljeni s spreminjajočimi se tehnologijami.",
+        "netEurPerHour": 10.14,
+        "grossEurPerHour": 12,
+        "location": " DELO OD DOMA",
+        "code": "405626"
+    },
+    {
+        "titles": [
+            "PROGRAMIRANJE"
+        ],
+        "description": "Iščejo motiviranega in samostojnega Angular razvijalca/ko, ki bi ga/jo zanimalo sodelovanje pri razvoju digitalnih rešitev na področjih transporta in kmetijstva. Kaj pričakujejo od tebe: predhodne delovne izkušnje z ogrodjem Angular, razumevanje konceptov Rxjs, REST konceptov, version control konceptov (git), osnove MongoDB, NestJS/NodeJS, Docker, Linux-a (Ubuntu).",
+        "netEurPerHour": 10.14,
+        "grossEurPerHour": 12,
+        "location": " VRHNIKA",
+        "code": "402734"
+    },
+    {
+        "titles": [
+            "PROGRAMIRANJE",
+            "PROGRAMIRANJE IN IZDELAVA APLIKACIJ"
+        ],
+        "description": "Podjetje išče osebo za delo programer aplikacij (m/ž). Delovno mesto zajema popravljanje skript in programiranje v HTML, CSS, JS, zaželeno je poznavanje ogrodji REACT in REACT-NATIVE. Možnost dodatka na uspešnost. Delo poteka na lokaciji podjetja.",
+        "netEurPerHour": 10,
+        "grossEurPerHour": 11.83,
+        "location": " LJUBLJANA",
+        "code": "405064"
+    },
+    {
+        "titles": [
+            "PROGRAMIRANJE"
+        ],
+        "description": "Iščejo programerja/ko študenta/ko višjega letnika za pomoč pri razvoju spletnega ERP sistema. Pogoj je poznavanje PHP, MySQL, JS/AJAX ter zaželeno poznavanje Zendframework (ali podobnega frameworka). Nudijo fleksibilen urnik in petkova druženja s hrano ob deteljici - če te zanima, kaj je to, pridi.",
+        "netEurPerHour": 10,
+        "grossEurPerHour": 11.83,
+        "location": " LJUBLJANA - ŠIŠKA",
+        "code": "403745"
+    },
+    {
+        "titles": [
+            "PROGRAMIRANJE",
+            "BACK-END PROGRAMER"
+        ],
+        "description": "Nemško-slovensko IT podjetje išče PHP backend razvijalca/ko zaključnih letnikov za razvoj mednarodne web aplikacije. Zahtevano je poznavanje tehnologij PHP. Prijave sprejemajo na e-mail.",
+        "netEurPerHour": 10,
+        "grossEurPerHour": 11.83,
+        "location": " DELO OD DOMA ALI V LJUBLJANI",
+        "code": "380753"
+    },
+    {
+        "titles": [
+            "PROGRAMIRANJE"
+        ],
+        "description": "Visokotehnološko ameriško podjetje, ki ustvarja platformo za stereo kamere z umetno inteligenco, išče ROS programerja/ko, ki se spozna na strojni vid/umetno inteligenco. Potrebna znanja: ROS, C++. Zainteresirani naj pošljejo svoj Github in CV/email v angleščini.",
+        "netEurPerHour": 9.5,
+        "grossEurPerHour": 11.24,
+        "location": " OD DOMA",
+        "code": "393183"
+    },
+    {
+        "titles": [
+            "PROGRAMIRANJE"
+        ],
+        "description": "Visokotehnološko ameriško podjetje, ki ustvarja platformo za stereo kamere z umetno inteligenco, išče Javascript programerje/ke za frontend (ali samo front/back-end). Potrebna znanja: Javascript (ES6), React + Redux (ali podoben framework), Node. js, git. Plus: ML/AI osnove. Zainteresirani naj pošljejo svoj github/CV/spremno pismo v angleščini.",
+        "netEurPerHour": 9.5,
+        "grossEurPerHour": 11.24,
+        "location": " OD DOMA",
+        "code": "393182"
+    },
+    {
+        "titles": [
+            "PROGRAMIRANJE"
+        ],
+        "description": "So majhno visokotehnološko ameriško podjetje, ki ustvarja platformo za stereo kamere z umetno inteligenco. Iščejo Python programerje/ke. Možnost dela: programiranje embedded naprav, delo na knjižnicah in projektih z njihovo platformo. Potrebna znanja: Python, git in angleščina. Plus: ML/AI, linearna algebra, osnove elektrotehnike, embedded področja. Zainteresirani naj pošljejo svoj github/CV/spremno pismo v angleščini. Urna postavka se lahko tudi zviša glede na uspešnost.",
+        "netEurPerHour": 9.5,
+        "grossEurPerHour": 11.24,
+        "location": " OD DOMA / LJUBLJANA ČRNUČE",
+        "code": "393179"
+    },
+    {
+        "titles": [
+            "PROGRAMIRANJE"
+        ],
+        "description": "Podjetje išče novega sodelavca/ko s z željo po delu z oblačno (AWS) in lokalno infrastrukturo. Pomemben je interes za delo na omenjenem področju in želja po učenju. Glavne naloge bodo upravljanje infrastrukture (AWS in lokalna namestitev). Če te zanima razvoj modernih spletnih aplikacij (Ubuntu, Postgres, Django) in želiš biti del mednarodnega okolja ne odlašaj s prijavo.",
+        "netEurPerHour": 9.29,
+        "grossEurPerHour": 11,
+        "location": " LJUBLJANA",
+        "code": "395043"
+    },
+    {
+        "titles": [
+            "PROGRAMIRANJE"
+        ],
+        "description": "Iščejo nadobudnega full-stack programerja/ko! Potrebna znanja: Golang, PHP, HTML, JS, CSS in relacijske podatkovne baze / SQL. Druge zahteve: znanje angleškega jezika, natančnost, iznajdljivost in hitra učljivost. Nudijo: osvajanje pomembnih novih znanj na področju novih tehnologij in soočanje s sodobnimi izzivi. Kasneje možnost napredovanja in redne zaposlitve. Prijave sprejemajo na elektronski naslov.",
+        "netEurPerHour": 9.29,
+        "grossEurPerHour": 11,
+        "location": " LJUBLJANA",
+        "code": "343565"
+    },
+    {
+        "titles": [
+            "PROGRAMIRANJE"
+        ],
+        "description": "Iščejo študenta/ko FRI ali FE. So mlado podjetje, ki se ukvarja z razvojem programskih rešitev za industrijske projekte in avtomatizacijo. Pričakuje se dobro poznavanje c# in . NET, zaželeno je poznavanje SQL, HTML. Absolventi in študenti zadnjih letnikov imajo kasneje možnost redne zaposlitve.",
+        "netEurPerHour": 9,
+        "grossEurPerHour": 10.65,
+        "location": " LJUBLJANA",
+        "code": "376893"
+    },
+    {
+        "titles": [
+            "PROGRAMIRANJE",
+            "RAZVIJANJE APLIKACIJ"
+        ],
+        "description": "Mednaroden in prodoren startup s pisarno v Ljubljani išče študente/ke višjih letnikov za razvoj mobilnih aplikacij za nastajajočo storitev - iOS in Android. Zaželeno je poznavanje vsaj ene mobilne platforme. Če si proaktiven/a, ambiciozen/a, samostojen/a in vedoželjen/a ter želiš sodelovati s strokovnjaki v različnih ekipah (produktno vodenje, razvoj API, DevOps), bodo veseli tvoje prijave! Možnost kasnejše zaposlitve in mentorstva.",
+        "netEurPerHour": 9,
+        "grossEurPerHour": 10.65,
+        "location": " LJUBLJANA IN DELO OD DOMA",
+        "code": "375267"
+    },
+    {
+        "titles": [
+            "PROGRAMIRANJE"
+        ],
+        "description": "Mednaroden in prodoren startup s pisarno v Ljubljani išče študente/ke višjih letnikov za razvoj zalednih sistemov. Potrebno je poznavanje Pythona, Golanga ali Java programskih jezikov. Če si proaktiven/a, ambiciozen/a, samostojen/a in vedoželjen/a ter želiš sodelovati s strokovnjaki v različnih ekipah (produktno vodenje, razvoj API, DevOps), bodo veseli tvoje prijave! Možnost kasnejše zaposlitve in mentorstva.",
+        "netEurPerHour": 9,
+        "grossEurPerHour": 10.65,
+        "location": " LJUBLJANA IN DELO OD DOMA",
+        "code": "375266"
+    },
+    {
+        "titles": [
+            "PROGRAMIRANJE"
+        ],
+        "description": "Si želiš razvijati svoje programerske veščine v ekipi, ki se ponaša z izjemnim humorjem? Potem si popoln fit za developerja v našem CRM oddelku. Delo zajema razvoj aplikacij po željah strank na podlagi Microsoftovih tehnologij, oblikovanje poslovnih procesov in implementacija le teh s pomočjo Dynamics 365 platforme. Vključuje tudi delo različnimi storitvami v Azure oblaku, dodelave raznih tehničnih zahtev, sistemske konfiguracijami in nadgradnje sistemov.",
+        "netEurPerHour": 8.7,
+        "grossEurPerHour": 10.3,
+        "location": " LJUBLJANA ALI OD DOMA",
+        "code": "397043"
+    },
+    {
+        "titles": [
+            "INFORMATIKA"
+        ],
+        "description": "V oddelku IT Iščejo pozitivno osebo razvijalca/ko. Obvezno vsaj 2. letnik študija IT / matematike ali fizike. Pogoj je znanje enega programskega jezika php, java,c#, vsaj osnovno poznavanje baze MSSQL ali MYSQL. Zaželeno znanje enega od frontend framsetov Vue. js ali angular. Znanje REST, SOAP; ODATA protokolov predstavlja prednost. Poznavanje MAVEN, Spring, Spring MVC predstavlja prednost. Zaželeno znanje nemškega jezika. Nudijo brezplačen zajtrk, plačano malico, možnost daljšega občasnega dela.",
+        "netEurPerHour": 8.5,
+        "grossEurPerHour": 10.06,
+        "location": " DOB PRI DOMŽALAH",
+        "code": "405354"
+    },
+    {
+        "titles": [
+            "INFORMATIKA",
+            "DELO NA TERENU IN V SERVISU"
+        ],
+        "description": "Prijeten manjši kolektiv išče sodelavca/ko za servisiranje in implementacijo multifunkcijskih naprav za tiskanje, skenerjev in ostale biro opreme. Vabijo kandidata/ko iz okolice Logatca. Pogoji so pripravljenost za delo na terenu, aktivno znanje angleškega jezika, poznavanje MS office. Vabijo te na sproščen razgovor.",
+        "netEurPerHour": 8.45,
+        "grossEurPerHour": 10,
+        "location": " LOGATEC",
+        "code": "400546"
+    },
+    {
+        "titles": [
+            "PROGRAMIRANJE"
+        ],
+        "description": "Iščejo Full stack(Front in Back-End) programerje za programiranje spletnih strani in trgovin. 1) Primarno se dela na v VB. NET-u. Potrebno je še znanje HTML, CSS, JS in SQL. 2) Razvijajo tudi v Wordpress in Woocomerce, kjer so tudi potrebna znanja HTML, CSS, JS in SQL. Delal/a boš na izdelavi spletnih strani in trgovin. Dizajn pripravi oblikovalec. Tvoja naloga je da izdelaš HTML in CSS in ju vgradiš v naš ali WP CMS. Možnost je tudi da dobiš že izdelan HTML in CSS, ter ju samo vgradiš.",
+        "netEurPerHour": 8.45,
+        "grossEurPerHour": 10,
+        "location": " INDUSTRIJSKA CONA TRZIN",
+        "code": "343690"
+    },
+    {
+        "titles": [
+            "INFORMATIKA",
+            "IT PODPORA"
+        ],
+        "description": "Iščejo polnoletno osebo za pomoč pri tehnični podpori oziroma za pomoč v IT oddelku - postavitev novih računalnikov, omrežij in programske opreme, namestitev računalniške programske opreme, zagotavljanje tehnične podpore, vzdrževanje obstoječih sistemov. Pričakujejo znanje z IT področja, obvezno znanje slovenščine in angleščine ter komunikacijske sposobnosti. Prijave sprejemajo preko spletnega obrazca najkasneje do 14. 7. 2023.",
+        "netEurPerHour": 8.03,
+        "grossEurPerHour": 9.5,
+        "location": " LJUBLJANA",
+        "code": "405236"
+    },
+    {
+        "titles": [
+            "OBDELAVA PODATKOV"
+        ],
+        "description": "Uspešno podjetje na področju e-commerce prodaje, ki deluje na številnih evropskih trgih, išče analitičnega/-no študenta/-ko za pomoč pri obdelavi podatkov. Delo zajema podporo poslovnim procesom z orodji informacijske tehnologije ter analizo in pripravo podatkov spletne prodaje. Nudijo mentorstvo, možnost napredovanja in dolgoročnega občasnega sodelovanja. Pošlji elektronsko prijavo.",
+        "netEurPerHour": 8,
+        "grossEurPerHour": 9.47,
+        "location": " TRZIN",
+        "code": "405373"
+    },
+    {
+        "titles": [
+            "INFORMATIKA",
+            "PROGRAMIRANJE IN IZDELAVA APLIKACIJ"
+        ],
+        "description": "Iščejo študenta/ko iz Ljubljane ali okolice, ki je na koncu študija elektrotehnike, računalništva in informatike ali podobne smeri. Delo zajema programiranje spletnih aplikacij, razvoj in vzdrževanje programskih aplikacij. Pričakujejo urejeno, komunikativno, natančno in odgovorno osebo.",
+        "netEurPerHour": 8,
+        "grossEurPerHour": 9.47,
+        "location": " TRZIN",
+        "code": "404935"
+    },
+    {
+        "titles": [
+            "PROGRAMIRANJE"
+        ],
+        "description": "Spletna agencija išče študenta/ko za programiranje spletnih projektov (spletna mesta, trgovine). Zahtevana znanja: PHP, Laravel, MySQL, dobro poznavanje ostalih spletnih področij in interneta. Potrebne so izkušnje v spletnem programiranju in vsaj V. stopnja izobrazbe ter starost nad 18 let. Prijavo pošlji na e-mail.",
+        "netEurPerHour": 8,
+        "grossEurPerHour": 9.47,
+        "location": " LJUBLJANA",
+        "code": "403302"
+    },
+    {
+        "titles": [
+            "PROGRAMIRANJE"
+        ],
+        "description": "Podjetje išče C# razvijalca Windows namiznih aplikacij za potrebe vojaških simulacij. Kandidat mora imeti izkušnje z razvojem namiznih aplikacij z WPF in . NET ogrodjem, je domač s komunikacijo med spletnimi storitvami, uporablja objektno orientirano in modularno programiranje ter ima občutek za UX., pozna razvijanje Windows namizne aplikacije WPF z MVVM arhitekturo, pozna komunikacijo med spletnimi storitvami z REST, branje in pisanje podatkov v podatkovno bazo z uporabo Entity Framework,. . .",
+        "netEurPerHour": 8,
+        "grossEurPerHour": 9.47,
+        "location": " LJUBLJANA",
+        "code": "384058"
+    },
+    {
+        "titles": [
+            "PROGRAMIRANJE"
+        ],
+        "description": "Podjetje išče C# razvijalca/ko igralnih pogonov, ki bo v pomoč za razvoj igralnega pogona (game engine), ki je namenjen vojaškim simulacijam. Oseba mora biti vešča razvijanja namiznih aplikacij, poznavanja dobrih praks objektnega programiranja ter modularne gradnje obsežnih aplikacij. Zaradi uporabe nizkonivojskih grafičnih knjižnic ter razvoja lastnega pogona, se od kandidata pričakuje osnovno znanje programskega jezika C/C++, delovanje . NET okolja za integracijo nizkonivojskih knjižnic. . .",
+        "netEurPerHour": 8,
+        "grossEurPerHour": 9.47,
+        "location": " LJUBLJANA",
+        "code": "384056"
+    },
+    {
+        "titles": [
+            "PROGRAMIRANJE"
+        ],
+        "description": "Podjetje išče C++ junior razvijalca/ko, odgovornega/no za programiranje na in-house game enginu namenjemu vojaškim simulacijam. Simulation engine development vključuje razvoj simulatorjev za vozila in oborožitvene postaje po specifikacijah ter protokolih iz pravih navodil, implementacija raznih manjših ali anti-tank orožij v sklopu marksmanship/taktičnega simulatorja, razvoj grafičnega vmesnika skupaj z zaledno logiko, uporaba raznovrstne strojne opreme, programiranje logike za scenarije.",
+        "netEurPerHour": 8,
+        "grossEurPerHour": 9.47,
+        "location": " LJUBLJANA",
+        "code": "384048"
+    },
+    {
+        "titles": [
+            "STROKOVNO DELO",
+            "PROGRAMIRANJE"
+        ],
+        "description": "Iščejo samoiniciativno osebo, ki študira elektrotehniko, mehatroniko ali avtomatiko za delo v razvoju in ima željo po novih izzivih, dinamičnem delu in super kolektivu. Osnovni pogoj za delo je znanje iz programiranja STM32 mikrokrmilnikov. Prijavo in CV z dopisom programer (STM32).",
+        "netEurPerHour": 7.6,
+        "grossEurPerHour": 9,
+        "location": " MARIBOR",
+        "code": "405368"
+    },
+    {
+        "titles": [
+            "PROGRAMIRANJE"
+        ],
+        "description": "V tehnološkem podjetju, kjer razvijajo software za oglaševanje, iščejo študenta/ko, ki se bo pridružil/a Quality Assurance ekipi. Iščejo nekoga s predhodnim znanjem iz programiranja in željo po razvoju na Quality Assurance področju. Možnost kasnejše redne zaposlitve. Prijave pošljite na e-mail in dodajte življenjepis.",
+        "netEurPerHour": 7.6,
+        "grossEurPerHour": 9,
+        "location": " LJUBLJANA",
+        "code": "404308"
+    },
+    {
+        "titles": [
+            "INFORMATIKA"
+        ],
+        "description": "V oddelku IT iščejo pozitivno osebo za IT podporo strankam. Obvezno: vsaj 2. letnik študija IT. Delovne naloge: delo v podpori, izkušnje z delom v podpori uporabnikov. Zaželena znanja: MSSQL/MySQL, znanje nemškega jezika. Želja po učenju, natančnost, organiziranost, vestnost ter pozitiven pristop do dela. Nudijo brezplačen zajtrk, plačano malico, ter možnost dolgoročnega občasnega sodelovanja. Prednost bodo imeli kandidati z osnovnim znanjem PHP in vue. js.",
+        "netEurPerHour": 7.5,
+        "grossEurPerHour": 8.88,
+        "location": " DOB PRI DOMŽALAH",
+        "code": "405352"
+    },
+    {
+        "titles": [
+            "KLICNI CENTER",
+            "PODPORA"
+        ],
+        "description": "Iščejo zanesljive, odgovorne in fleksibilne študente/ke za delo v klicnem centru z IT podporo. Pogoj je končana V. stopnja izobrazbe katerekoli smeri. Zaželene so dobre komunikacijske veščine, osnovno računalniško znanje ter osnovno znanje angleškega jezika. Delo je izmensko, predvidoma v nočnem času ter med vikendi, po potrebi in dogovoru. Bruto urna postavka znaša od 8,5 € do 9,5 €. Za uvajanje, ki poteka v dopoldanskem času pa je urna postavka 6,92 €.",
+        "netEurPerHour": 7.18,
+        "grossEurPerHour": 8.5,
+        "location": " LJUBLJANA",
+        "code": "394935"
+    },
+    {
+        "titles": [
+            "IZDELAVA IN UREJANJE SPLETNE STRANI"
+        ],
+        "description": "Uspešno podjetje na področju e-commerce prodaje, ki deluje v 21 evropskih državah, išče študenta/ko za pomoč pri nalaganju produktov na spletna tržišča z uporabo Wordpressa in Baselinkerja, spremljanje zaloge in urejanje slik (Canva, Adobe Photoshop) ter opisov produktov. Zaželene so izkušnje z nalaganjem produktov in smisel za ustvarjanje vabljivih strani. Želijo si organizirano in natančno osebo, ki ji proaktivnost in iznajdljivost nista tuji. Nudijo možnost osebnega in kariernega razvoja.",
+        "netEurPerHour": 7,
+        "grossEurPerHour": 8.28,
+        "location": " TRZIN",
+        "code": "405375"
+    },
+    {
+        "titles": [
+            "PROGRAMIRANJE"
+        ],
+        "description": "Podjetje išče osebo za programiranje. Pričakujejo osnovne izkušnje iz programiranja, veselje do programiranja in samoiniciativnost. Kandidati/ke naj na kratko opišejo svoje izkušnje in pričakovanja.",
+        "netEurPerHour": 7,
+        "grossEurPerHour": 8.28,
+        "location": " ŠKOFJA LOKA",
+        "code": "403868"
+    },
+    {
+        "titles": [
+            "RAČUNALNIŠKE STORITVE"
+        ],
+        "description": "Delo v operativno-nadzornemu oddelku OMC v podjetju, ki se ukvarja s telekomunikacijami. Delo je troizmensko, kar pomeni tudi nočno, med vikendi in prazniki, vendar je vse po dogovoru, tako da ima čim manjši vpliv na vaš študij. Urna postavka se s časoma zviša. K prijavi dodajte CV in pripis OMC.",
+        "netEurPerHour": 7,
+        "grossEurPerHour": 8.28,
+        "location": " LJUBLJANA",
+        "code": "395266"
+    },
+    {
+        "titles": [
+            "TEHNIČNA POMOČ",
+            "RAČUNALNIŠKI PROGRAMI"
+        ],
+        "description": "Delo zajema tehnično pomoč uporabnikom CAD/BIM programov kot je ELITECAD Architecture (uvajanje strank, izobraževanje, svetovanje, predstavitve, predavanja, konference, strokovni simpoziji. . . ). Nudijo popolno pomoč pri usposabljanju in odlične karierne priložnosti. Pogoj; študent/ka arhitekture.",
+        "netEurPerHour": 7,
+        "grossEurPerHour": 8.28,
+        "location": " SLOVENIJA",
+        "code": "387708"
+    },
+    {
+        "titles": [
+            "TEHNIČNA POMOČ",
+            "ZBIRANJE IN OBDELAVA PODATKOV"
+        ],
+        "description": "Iščejo študenta/ko za tehnično podporo pri uporabi, ki zajema interno pomoč in občasno komunikacijo s strankami. Delo med drugim obsega pregled in analizo prejetih podatkov, pravočasno zagotavljanje povratnih informacij in izdelavo krajših poročil. Pogoji: študent/ka višjega letnika ali absolvent/ka elektro, strojne ali druge tehnične smeri z odlično sposobnostjo ustnega in pisnega sporočanja v slovenskem jeziku. Prijave in CV sprejemajo na e-mail.",
+        "netEurPerHour": 6.9,
+        "grossEurPerHour": 8.17,
+        "location": " LJUBLJANA",
+        "code": "399828"
+    },
+    {
+        "titles": [
+            "ADMINISTRATIVNA DELA",
+            "OBDELAVA PODATKOV"
+        ],
+        "description": "Farmacevtsko podjetje potrebuje polnoletno osebo ustrezne smeri študija (farmacija, kemija, računalništvo) za administrativna dela ( pomoč pri obdelavi podatkov v Excelu, priprava grafov, tabel, poročil, dnevno delo v SAP-U. . . . ). Dopoldansko delo. Prijave in CV pošjite na e-naslov.",
+        "netEurPerHour": 6.76,
+        "grossEurPerHour": 8,
+        "location": " LJUBLJANA",
+        "code": "405557"
+    },
+    {
+        "titles": [
+            "PROGRAMIRANJE",
+            "RAZVIJANJE APLIKACIJ"
+        ],
+        "description": "Podjetje potrebuje programerja/ko za razvoj spletnih aplikacij. Možna je tudi kasnejša redna zaposlitev.",
+        "netEurPerHour": 6.76,
+        "grossEurPerHour": 8,
+        "location": " KRŠKO",
+        "code": "405333"
+    },
+    {
+        "titles": [
+            "PROGRAMIRANJE"
+        ],
+        "description": "Iščejo študenta/ko, ki končuje študij in ki bi rad/a opravil/a prakso v podjetju z internim IT oddelkom za razvoj lastne programske opreme. Osebi nudijo možnost redne zaposlitve po zaključeni izobrazbi. V podjetju uporabljajo sledeče tehnologije: PostgreSQL, Javascript (node. js) ter PHP. Zaželeno je vsaj osnovno znanje italijanskega jezika. Vabijo na razgovor, za dogovor termina prosim pišite na njihov elektronski naslov.",
+        "netEurPerHour": 6.76,
+        "grossEurPerHour": 8,
+        "location": " KOPER",
+        "code": "404773"
+    },
+    {
+        "titles": [
+            "OBDELAVA PODATKOV"
+        ],
+        "description": "V podjetju iščejo natančnega in odgovornega študenta/ko za delo na področju analize prometnih podatkov. Pogoj je računalniška pismenost in želja po pridobivanju novih znanj. Zaželena je tehnična izobrazba. Delo poteka na sedežu podjetja, s pričetkom takoj oz. po dogovoru. Možnost tudi kasnejše redne zaposlitve. Pošlji prijavo.",
+        "netEurPerHour": 6.76,
+        "grossEurPerHour": 8,
+        "location": " TRZIN",
+        "code": "403321"
+    },
+    {
+        "titles": [
+            "OBDELAVA PODATKOV"
+        ],
+        "description": "Iščejo osebo za pomoč v oddelku nabave. Delo obsega naslednje zadolžitve: analitika, priprava raznih tabel, razdelilnikov in obvestil za maloprodajo, preverjanje vseh objav artiklov na spletni strani. Obvezno je napredno znanje Excela. Iščejo natančno, zanesljivo osebo, ki ima rada delo s številkami. Pošlji e-prijavo.",
+        "netEurPerHour": 6.76,
+        "grossEurPerHour": 8,
+        "location": " LJUBLJANA - BTC",
+        "code": "401790"
+    },
+    {
+        "titles": [
+            "OBDELAVA PODATKOV"
+        ],
+        "description": "V podjetju se je odprlo študentsko delovno mesto za podatkovnega inženirja/inženirko v oddelku za poslovno analitiko. Si to ti? Si študent/ka zadnjega letnika, absolvent/ka z željo po redni zaposlitvi? Je obdelava podatkov tvoja strast? Priprava reportov pa nekaj s čemer z veseljem prikažeš kaj se da iz podatkov vse videti? Imaš že nekaj izkušenj z SQL-om, ETL, PowerBI-jem? Tvoje odlike so komunikativnost, timsko delo, proaktivnost. Vabijo te, da jim pošlješ svojo prijavo.",
+        "netEurPerHour": 6.76,
+        "grossEurPerHour": 8,
+        "location": " LJUBLJANA",
+        "code": "397144"
+    },
+    {
+        "titles": [
+            "RAČUNALNIŠKE STORITVE"
+        ],
+        "description": "V skupino vabijo dve osebi s področja informacijske varnosti -etični heker za pomoč pri izvajanju varnostnih pregledov ter penetracijskih testov",
+        "netEurPerHour": 6.76,
+        "grossEurPerHour": 8,
+        "location": " LJUBLJANA",
+        "code": "395034"
+    },
+    {
+        "titles": [
+            "PROGRAMIRANJE"
+        ],
+        "description": "Podjetje s sedežem v Severni Ameriki in podružnico v Mariboru išče motivirano in nadarjeno osebo, ki se želi pridružiti njihovi ekipi. Iščejo absolventa/ko FERI, ki bi programiral/a v NodeJs-u. Potrebno je znanje JS, NodeJs, MEVN, Python in želja po učenju novih tehnologij.",
+        "netEurPerHour": 6.76,
+        "grossEurPerHour": 8,
+        "location": " MARIBOR",
+        "code": "368423"
+    },
+    {
+        "titles": [
+            "SERVISIRANJE RAČUNALNIŠKE OPREME",
+            "POMOČ PRI PRODAJI"
+        ],
+        "description": "Iščejo študenta/ko za delo v računalniškem servisu in pomoč pri prodaji. Delo je razgibano in raznovrstno, urnik dela po dogovoru. Od kandidata/ke pričakujejo dobro poznavanje računalniške strojne in programske opreme ter izkušnje pri servisiranju stacionarnih in prenosnih računalnikov. Pošlji prošnjo in življenjepis.",
+        "netEurPerHour": 6.34,
+        "grossEurPerHour": 7.5,
+        "location": " LJUBLJANA - LAVRICA",
+        "code": "403542"
+    },
+    {
+        "titles": [
+            "TEHNIČNA POMOČ",
+            "PODPORA"
+        ],
+        "description": "Tehnična pomoč poslovnim uporabnikom. Delo v mladem in dinamičnem timu, kjer lahko vsak z željo po raziskovanju in osvajanju novih veščin in znanj, pride na svoj račun. Te zanima delo na področju informacijsko-komunikacijskih tehnologij? Se rad/a ukvarjaš z računalniškim okoljem ali mrežnimi tehnologijami? Se odlično znajdeš v poslovnem okolju? Pošlji svoj CV na e-mail, s pripisom Tehnična pomoč POSLOVNE REŠITVE. Z napredkom v znanju in veščinah nudijo dvig urne postavke do 10 € bruto/h.",
+        "netEurPerHour": 6.34,
+        "grossEurPerHour": 7.5,
+        "location": " LJUBLJANA",
+        "code": "369934"
+    },
+    {
+        "titles": [
+            "SERVISIRANJE RAČUNALNIŠKE OPREME"
+        ],
+        "description": "Mlad kolektiv išče osebo za servisiranje mobilnih telefonov in tabličnih računalnikov. Pogoja sta polnoletnost in zanesljivost. Predhodne izkušnje niso potrebne. Kasneje nudijo možnost redne zaposlitve. Prijave pošljite na e-mail.",
+        "netEurPerHour": 6,
+        "grossEurPerHour": 7.1,
+        "location": " LJUBLJANA",
+        "code": "394667"
+    }
+]
